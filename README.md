@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Swift, SwiftUI and continuous learning algorithms that can be dopleyed on an IOS device.
 - 📫 **How to reach me:**
   - [LinkedIn](https://www.linkedin.com/in/arman-ozkaya-0888ab190)
-  - [Email] ao85@st-andrews.ac.uk
+  - Email: ao85@st-andrews.ac.uk
